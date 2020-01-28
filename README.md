@@ -37,7 +37,7 @@ origin. Add in the arguments for the commands and use them to push these changes
 
 ```
 git add <file>
-git commit -m "message"
+git commit -m
 git push <name> <branch> 
 ```
 
